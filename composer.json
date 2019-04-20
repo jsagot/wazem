@@ -1,6 +1,6 @@
 {
     "name": "jsagot/wazem",
-    "description": "Framework for PHP applications",
+    "description": "HTML template engine for PHP",
     "type": "library",
     "license": "MIT",
     "authors": [
