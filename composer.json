@@ -1,0 +1,14 @@
+{
+    "name": "jsagot/wazem",
+    "description": "Framework for PHP applications",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julien SAGOT",
+            "email": "dev.wazem@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
